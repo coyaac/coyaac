@@ -1,27 +1,27 @@
-# Hola, soy Benjamín 👋
+# Hola, soy Benjamín
 
 **Desarrollador full-stack y co-fundador de [Exo Type SpA](https://exotype.cl)** · Ingeniería Civil Informática (titulación: diciembre 2026) · Santiago, Chile
 
 Construyo productos de software de punta a punta: levantamiento de requerimientos, arquitectura, desarrollo en TypeScript/Next.js y despliegue en la nube. Además tengo base formal en infraestructura y redes (CCNA, DevNet, Linux), así que me hago cargo tanto de la aplicación como del entorno donde corre.
 
-📫 **Contacto:** [benjaignaciosenler@gmail.com](mailto:benjaignaciosenler@gmail.com)
+**Contacto:** [benjaignaciosenler@gmail.com](mailto:benjaignaciosenler@gmail.com)
 
 ---
 
-## 🚀 Lo que estoy haciendo hoy
+## Lo que estoy haciendo hoy
 
 ### Exo Type SpA — Co-fundador y desarrollador (desde mayo 2026)
 Software a medida para industrias reguladas. Participo en las decisiones de producto, arquitectura y priorización técnica, y desarrollo full-stack sobre Next.js, TypeScript, tRPC y Supabase, en un monorepo Turborepo desplegado en Cloudflare Workers.
 
-- 🐾 **[PetWild](https://petwild.app)**: sistema de gestión para clínica veterinaria y tienda, con portal de clientes, agenda de horas y ficha clínica. **En producción.**
-- 🦎 **[Exovita](https://exovita.cl)**: SaaS de trazabilidad para criaderos de fauna exótica regulados por el SAG. Verificación pública por QR, cálculo de consanguinidad (COI) e importador de planillas Excel. Nueve módulos operativos, en pruebas con criaderos reales.
+- **[PetWild](https://petwild.app)**: sistema de gestión para clínica veterinaria y tienda, con portal de clientes, agenda de horas y ficha clínica. **En producción.**
+- **[Exovita](https://exovita.cl)**: SaaS de trazabilidad para criaderos de fauna exótica regulados por el SAG. Verificación pública por QR, cálculo de consanguinidad (COI) e importador de planillas Excel. Nueve módulos operativos, en pruebas con criaderos reales.
 
 ### GTD — Analista de Inteligencia Competitiva y Desarrollo (desde marzo 2026)
 Proyecto de título para el segmento B2B Data Center. Entregué un MVP funcional que centraliza la inteligencia competitiva del área de marketing en un panel único, reemplazando la revisión manual y dispersa de la competencia. Implementé web scraping sobre las bibliotecas públicas de anuncios de LinkedIn Ads, Google Ads y Meta Ads, levanté requerimientos con stakeholders y entregué la documentación técnica.
 
 ---
 
-## 🛠️ Stack técnico
+## Stack técnico
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -55,15 +55,15 @@ Proyecto de título para el segmento B2B Data Center. Entregué un MVP funcional
 
 ---
 
-## 📂 Proyectos personales
+## Proyectos personales
 
+- **[Guatracker](https://github.com/coyaac/Guatracker)** (TypeScript): PWA de seguimiento de hábitos (alimentación, hidratación, entrenamiento y sueño) con registro rápido y resumen semanal. Construida con React, TypeScript y Dexie, con los datos guardados en el dispositivo, pruebas con Vitest y despliegue en GitHub Pages. [Ver en vivo](https://coyaac.github.io/Guatracker/).
 - **[volumen-master](https://github.com/coyaac/volumen-master)** (Kotlin): app Android que ignora el botón de volumen del teléfono y maneja el volumen desde la propia app.
 - **[FAH-claude](https://github.com/coyaac/FAH-claude)** (JavaScript): hace sonar un aviso cuando Claude Code termina de trabajar en la terminal.
-- **[Guatracker](https://github.com/coyaac/Guatracker)** (TypeScript)
 
 ---
 
-## 🎓 Formación y certificaciones
+## Formación y certificaciones
 
 - **Universidad San Sebastián**: Ingeniería Civil Informática (2022 – dic. 2026)
 - **Cisco**: DevNet Associate · Linux Essentials · CCNA Switching, Routing and Wireless Essentials · CCNA Introduction to Networks · IT Essentials
@@ -72,7 +72,7 @@ Proyecto de título para el segmento B2B Data Center. Entregué un MVP funcional
 
 ---
 
-## 🧭 Experiencia previa
+## Experiencia previa
 
 - **Universidad de Chile, Facultad de Arquitectura y Urbanismo** (práctica industrial, ene–mar 2025): levanté requerimientos funcionales para sistemas institucionales y diagramé, analicé y documenté tres procesos internos completos como base para su digitalización.
 - **Universidad San Sebastián, soporte técnico** (mayo 2025 – julio 2026): resolución de incidencias técnicas con un volumen aproximado de 100 llamadas diarias.
